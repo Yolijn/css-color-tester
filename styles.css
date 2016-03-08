@@ -1,0 +1,16 @@
+
+#example {
+	border: 1px solid #666;
+	border-radius: 10px 10px;
+	color: red;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.my-text-color, .my-background-color {
+	text-transform: capitalize;
+}
+
+.select-colors {
+	margin-top: 20px;
+}
